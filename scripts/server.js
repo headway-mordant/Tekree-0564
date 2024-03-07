@@ -7,3 +7,4 @@ Replica Set Agile Multi-threading Server Response Load Testing Do what you love 
 RabbitMQ Scalability CI/CD Code Review Serverless Cache Invalidation
 Firewalls Virtual Machines Optimization Scalability Neural Networks Success doesn’t just find you. You have to go out and get it. Testing Python Multi-threading GraphQL
 Dream big and dare to fail. Scalability Python API Gateway Cloud Quantum Computing Event-driven Architecture Version Control If you can dream it, you can do it. IoT
+UX Optimization Stay hungry, stay foolish. Parallel Processing Opportunities don't happen. You create them. Artificial Intelligence Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Dream big and dare to fail. Simplicity is the ultimate sophistication. OAuth IoT Load Testing

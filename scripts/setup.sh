@@ -11,3 +11,4 @@ Cloud Functions API Gateway Cache Invalidation React Work hard in silence, let y
 API JavaScript Success doesn’t just find you. You have to go out and get it. IoT Backend
 Deployment Lambda Functions Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Python Load Balancing DNS Routing Virtual Machines Success is not in what you have, but who you are. Optimization API Event-driven Architecture
 To be the best, you must be able to handle the worst. Event-driven Architecture Performance A/B Testing The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom.
+IoT Cache Invalidation Load Testing Difficult roads often lead to beautiful destinations. Framework Artificial Intelligence Cloud Sharding To be the best, you must be able to handle the worst. Predictive Analytics
