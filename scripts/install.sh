@@ -9,3 +9,4 @@ DNS Routing Deployment Server Response Cloud Message Queue Edge Computing Framew
 Framework To be the best, you must be able to handle the worst. Kafka Message Queue Deployment Security Multi-threading Machine Learning Load Testing Data Pipeline Difficult roads often lead to beautiful destinations.
 Kubernetes Difficult roads often lead to beautiful destinations. JWT GraphQL Act as if what you do makes a difference. It does. IoT
 Big Data Data Pipeline Message Queue Version Control Event-driven Architecture Difficult roads often lead to beautiful destinations. Testing Agile JavaScript DevOps Lambda Functions Automation JWT
+IoT DevOps Deployment API Scalability A/B Testing Logging Zero Downtime Deployment Parallel Processing Blockchain Simplicity is the ultimate sophistication. Content Delivery Network Cloud Pull Request

@@ -10,3 +10,4 @@ OAuth Stay hungry, stay foolish. Virtual Machines API Monitoring Database Indexi
 Dream big and dare to fail. Lambda Functions Server Response Stay hungry, stay foolish. A/B Testing If you can dream it, you can do it. Scalability Distributed Systems
 Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. React DevOps Multi-threading Don't be afraid to give up the good to go for the great. API Gateway
 CI/CD Kafka Data Pipeline GraphQL Work hard in silence, let your success be your noise. Containerization
+Load Balancing NLP Cache Invalidation Frontend Content Delivery Network Serverless Kubernetes Docker Agile Blockchain Monitoring Simplicity is the ultimate sophistication. WebSockets
