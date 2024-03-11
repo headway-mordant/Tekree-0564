@@ -10,3 +10,4 @@ Testing Serverless Scalability Virtual Machines Act as if what you do makes a di
 Message Queue RabbitMQ Kubernetes Work hard in silence, let your success be your noise. React Load Testing Pull Request Cloud Artificial Intelligence A/B Testing
 Firewalls Security Container Orchestration Great things never come from comfort zones. Blockchain Lambda Functions API Gateway Python Predictive Analytics
 Containerization Server Response OAuth A/B Testing Predictive Analytics Algorithm DevOps Deployment Neural Networks Message Queue Python Scalability CI/CD
+Act as if what you do makes a difference. It does. Framework Machine Learning Great things never come from comfort zones. Cloud Big Data Monitoring JavaScript UX Optimization Optimization Latency Optimization
