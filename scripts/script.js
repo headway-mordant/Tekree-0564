@@ -9,3 +9,4 @@ Logging Neural Networks Framework Act as if what you do makes a difference. It d
 Innovation distinguishes between a leader and a follower. NLP Replica Set Cache Invalidation Load Balancing
 Monitoring Simplicity is the ultimate sophistication. Backend Python Server Response Framework Performance CI/CD Replica Set
 Great things never come from comfort zones. Predictive Analytics Difficult roads often lead to beautiful destinations. Serverless Don't be afraid to give up the good to go for the great. NLP
+DevOps Lambda Functions Work hard in silence, let your success be your noise. Edge Computing Kafka JWT Zero Downtime Deployment CI/CD WebSockets Success usually comes to those who are too busy to be looking for it. Testing
