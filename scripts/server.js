@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. Python API Kubernetes Event 
 Replica Set Agile Multi-threading Server Response Load Testing Do what you love and the money will follow. Edge Computing
 RabbitMQ Scalability CI/CD Code Review Serverless Cache Invalidation
 Firewalls Virtual Machines Optimization Scalability Neural Networks Success doesn’t just find you. You have to go out and get it. Testing Python Multi-threading GraphQL
+Dream big and dare to fail. Scalability Python API Gateway Cloud Quantum Computing Event-driven Architecture Version Control If you can dream it, you can do it. IoT

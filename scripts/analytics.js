@@ -12,3 +12,4 @@ Success doesn’t just find you. You have to go out and get it. Don't be afraid to
 Data Pipeline RabbitMQ Automation Opportunities don't happen. You create them. Event Sourcing Version Control Event-driven Architecture UX Optimization Kubernetes
 React Quantum Computing Stay hungry, stay foolish. UX Optimization RabbitMQ Lambda Functions Algorithm Kubernetes Event Sourcing
 Data Science Logging Parallel Processing Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Database Indexing
+Don't be afraid to give up the good to go for the great. Kubernetes Content Delivery Network Distributed Systems DevOps Security Artificial Intelligence To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Monitoring Predictive Analytics Event-driven Architecture Frontend CI/CD Big Data
