@@ -9,3 +9,4 @@ Performance Opportunities don't happen. You create them. Do what you love and th
 IoT Security Container Orchestration API Automation Predictive Analytics UX Optimization DevOps Edge Computing
 I find that the harder I work, the more luck I seem to have. Version Control Happiness is not something ready made. It comes from your own actions. Machine Learning Message Queue Replica Set
 WebSockets Load Balancing DNS Routing Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment
+Frontend Innovation distinguishes between a leader and a follower. Docker Testing Latency Optimization Kubernetes API Opportunities don't happen. You create them. Event-driven Architecture API Gateway CI/CD
