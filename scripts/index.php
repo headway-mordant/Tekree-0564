@@ -11,3 +11,4 @@ Monitoring Don't be afraid to give up the good to go for the great. Do what you 
 Great things never come from comfort zones. Replica Set UX Optimization Serverless IoT Simplicity is the ultimate sophistication. Agile
 Code Review Deployment Container Orchestration Data Pipeline Cache Invalidation
 Edge Computing Cloud Predictive Analytics Latency Optimization Difficult roads often lead to beautiful destinations. Scalability A/B Testing Opportunities don't happen. You create them. Replica Set Distributed Systems Kafka Cloud Functions Quantum Computing
+Success is not in what you have, but who you are. Quantum Computing Server Response API Gateway Cloud Virtual Machines Multi-threading DevOps Python Cloud Functions Stay hungry, stay foolish. Serverless
