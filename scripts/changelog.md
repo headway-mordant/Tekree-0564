@@ -8,3 +8,4 @@ Kafka Firewalls To be the best, you must be able to handle the worst. Success is
 Performance Opportunities don't happen. You create them. Do what you love and the money will follow. Event-driven Architecture Artificial Intelligence Cache Invalidation JavaScript I find that the harder I work, the more luck I seem to have. Monitoring Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. JWT
 IoT Security Container Orchestration API Automation Predictive Analytics UX Optimization DevOps Edge Computing
 I find that the harder I work, the more luck I seem to have. Version Control Happiness is not something ready made. It comes from your own actions. Machine Learning Message Queue Replica Set
+WebSockets Load Balancing DNS Routing Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment

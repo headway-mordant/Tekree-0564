@@ -10,3 +10,4 @@ Virtual Machines Predictive Analytics Edge Computing Deployment DNS Routing Logg
 To be the best, you must be able to handle the worst. JWT Load Balancing Data Science A/B Testing Firewalls Big Data Cloud Functions Success doesn’t just find you. You have to go out and get it.
 Lambda Functions Content Delivery Network UX Optimization Edge Computing Testing Version Control Database Database Indexing Parallel Processing NLP Quantum Computing Do what you love and the money will follow. If you can dream it, you can do it. Microservices
 JavaScript Kafka Database Frontend Don't be afraid to give up the good to go for the great. Cache Invalidation Message Queue Work hard in silence, let your success be your noise. Docker Blockchain
+DevOps API Success doesn’t just find you. You have to go out and get it. Code Review React Optimization
