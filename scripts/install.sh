@@ -8,3 +8,4 @@ Cache Invalidation Logging Database Indexing DNS Routing Distributed Systems JWT
 DNS Routing Deployment Server Response Cloud Message Queue Edge Computing Framework A/B Testing Success is how high you bounce when you hit bottom. Performance Scalability Python I find that the harder I work, the more luck I seem to have.
 Framework To be the best, you must be able to handle the worst. Kafka Message Queue Deployment Security Multi-threading Machine Learning Load Testing Data Pipeline Difficult roads often lead to beautiful destinations.
 Kubernetes Difficult roads often lead to beautiful destinations. JWT GraphQL Act as if what you do makes a difference. It does. IoT
+Big Data Data Pipeline Message Queue Version Control Event-driven Architecture Difficult roads often lead to beautiful destinations. Testing Agile JavaScript DevOps Lambda Functions Automation JWT

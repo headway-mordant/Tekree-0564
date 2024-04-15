@@ -8,3 +8,4 @@ Deployment Lambda Functions Sharding Containerization Kafka Latency Optimization
 Firewalls Distributed Systems Backend Neural Networks Message Queue Python Event Sourcing The only way to do great work is to love what you do. Do what you love and the money will follow. Artificial Intelligence Container Orchestration Automation
 OAuth Stay hungry, stay foolish. Virtual Machines API Monitoring Database Indexing Work hard in silence, let your success be your noise. Pull Request
 Dream big and dare to fail. Lambda Functions Server Response Stay hungry, stay foolish. A/B Testing If you can dream it, you can do it. Scalability Distributed Systems
+Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. React DevOps Multi-threading Don't be afraid to give up the good to go for the great. API Gateway
