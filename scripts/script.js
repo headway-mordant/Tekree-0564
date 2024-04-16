@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Microservices Deplo
 Don't be afraid to give up the good to go for the great. Machine Learning JavaScript Performance Firewalls Event Sourcing Artificial Intelligence Scalability Virtual Machines Zero Downtime Deployment Lambda Functions
 Logging Neural Networks Framework Act as if what you do makes a difference. It does. Stay hungry, stay foolish. GraphQL Data Pipeline Virtual Machines
 Innovation distinguishes between a leader and a follower. NLP Replica Set Cache Invalidation Load Balancing
+Monitoring Simplicity is the ultimate sophistication. Backend Python Server Response Framework Performance CI/CD Replica Set

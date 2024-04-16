@@ -8,3 +8,4 @@ Algorithm Multi-threading Difficult roads often lead to beautiful destinations. 
 Data Pipeline Success is not in what you have, but who you are. Pull Request Cache Invalidation JavaScript
 Artificial Intelligence Version Control Framework Server Response Replica Set Pull Request JWT Frontend Success usually comes to those who are too busy to be looking for it. DNS Routing
 Security Framework React Monitoring Success is how high you bounce when you hit bottom. Do what you love and the money will follow.
+The only way to do great work is to love what you do. NLP Event Sourcing Database Do what you love and the money will follow. API Gateway Difficult roads often lead to beautiful destinations. Content Delivery Network API Data Pipeline RabbitMQ Dream big and dare to fail. WebSockets
