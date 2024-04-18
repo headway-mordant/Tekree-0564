@@ -9,3 +9,4 @@ Parallel Processing Scalability Opportunities don't happen. You create them. Doc
 RabbitMQ Blockchain JWT Serverless Content Delivery Network To be the best, you must be able to handle the worst. Virtual Machines Parallel Processing
 Predictive Analytics Innovation distinguishes between a leader and a follower. Data Pipeline Edge Computing UX Optimization NLP Load Testing Great things never come from comfort zones. WebSockets Logging API Gateway Server Response The only way to do great work is to love what you do. Content Delivery Network
 Message Queue Kubernetes NLP Docker Data Pipeline Distributed Systems Event-driven Architecture Success doesn’t just find you. You have to go out and get it. DevOps
+Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Database Firewalls Monitoring Backend Big Data
