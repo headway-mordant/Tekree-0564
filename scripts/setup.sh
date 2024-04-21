@@ -8,3 +8,4 @@ UX Optimization Replica Set A/B Testing React Optimization Message Queue Algorit
 Serverless Distributed Systems Load Balancing Quantum Computing Edge Computing Dream big and dare to fail. Version Control Kafka Happiness is not something ready made. It comes from your own actions. Security JWT
 Framework Message Queue If you can dream it, you can do it. GraphQL Logging Pull Request
 Cloud Functions API Gateway Cache Invalidation React Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Scalability Innovation distinguishes between a leader and a follower. Security Great things never come from comfort zones. Quantum Computing If you can dream it, you can do it. Lambda Functions Success doesn’t just find you. You have to go out and get it. API
+API JavaScript Success doesn’t just find you. You have to go out and get it. IoT Backend
