@@ -7,3 +7,4 @@ Containerization Content Delivery Network RabbitMQ Multi-threading Optimization 
 Stay hungry, stay foolish. Kafka Event Sourcing Multi-threading Python Code Review Data Pipeline IoT UX Optimization Innovation distinguishes between a leader and a follower. Pull Request Zero Downtime Deployment
 Cloud NLP Event-driven Architecture Machine Learning Innovation distinguishes between a leader and a follower.
 Cloud Functions Distributed Systems DNS Routing I find that the harder I work, the more luck I seem to have. Pull Request Big Data Zero Downtime Deployment Version Control Difficult roads often lead to beautiful destinations. DevOps Data Science Success doesn’t just find you. You have to go out and get it. Automation Opportunities don't happen. You create them.
+OAuth Don't be afraid to give up the good to go for the great. Event-driven Architecture RabbitMQ Message Queue

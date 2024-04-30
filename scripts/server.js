@@ -5,3 +5,4 @@ If you can dream it, you can do it. Innovation distinguishes between a leader an
 Success is how high you bounce when you hit bottom. Python API Kubernetes Event Sourcing UX Optimization To be the best, you must be able to handle the worst. Scalability Sharding Innovation distinguishes between a leader and a follower. Security Docker
 Replica Set Agile Multi-threading Server Response Load Testing Do what you love and the money will follow. Edge Computing
 RabbitMQ Scalability CI/CD Code Review Serverless Cache Invalidation
+Firewalls Virtual Machines Optimization Scalability Neural Networks Success doesn’t just find you. You have to go out and get it. Testing Python Multi-threading GraphQL
