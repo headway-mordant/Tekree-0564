@@ -5,3 +5,4 @@ DNS Routing Lambda Functions Container Orchestration Act as if what you do makes
 Version Control Container Orchestration Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. WebSockets Success is how high you bounce when you hit bottom.
 Edge Computing NLP A/B Testing Algorithm Work hard in silence, let your success be your noise. Parallel Processing GraphQL
 Cache Invalidation Logging Database Indexing DNS Routing Distributed Systems JWT Deployment Microservices WebSockets Kubernetes Backend
+DNS Routing Deployment Server Response Cloud Message Queue Edge Computing Framework A/B Testing Success is how high you bounce when you hit bottom. Performance Scalability Python I find that the harder I work, the more luck I seem to have.
