@@ -6,3 +6,4 @@ Automation Logging Serverless JavaScript DevOps Load Testing GraphQL UX Optimiza
 Work hard in silence, let your success be your noise. Blockchain Message Queue Optimization Serverless
 Neural Networks Edge Computing Docker CI/CD I find that the harder I work, the more luck I seem to have. Scalability Do what you love and the money will follow. NLP Message Queue
 Success usually comes to those who are too busy to be looking for it. JavaScript Happiness is not something ready made. It comes from your own actions. Big Data A/B Testing Load Testing GraphQL Edge Computing Logging Opportunities don't happen. You create them. API CI/CD
+Logging Scalability Message Queue Backend If you can dream it, you can do it. Monitoring Security Parallel Processing Content Delivery Network Virtual Machines Microservices Performance Database Indexing Server Response
