@@ -6,3 +6,4 @@ Message Queue Neural Networks Sharding Stay hungry, stay foolish. Replica Set Wo
 Kubernetes Artificial Intelligence Monitoring NLP Code Review Optimization Data Science Security Predictive Analytics Innovation distinguishes between a leader and a follower. Container Orchestration Frontend Replica Set
 Deployment Lambda Functions Sharding Containerization Kafka Latency Optimization Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Database Quantum Computing
 Firewalls Distributed Systems Backend Neural Networks Message Queue Python Event Sourcing The only way to do great work is to love what you do. Do what you love and the money will follow. Artificial Intelligence Container Orchestration Automation
+OAuth Stay hungry, stay foolish. Virtual Machines API Monitoring Database Indexing Work hard in silence, let your success be your noise. Pull Request
