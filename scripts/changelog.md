@@ -6,3 +6,4 @@ Data Science Work hard in silence, let your success be your noise. OAuth Firewal
 Kafka If you can dream it, you can do it. DevOps Quantum Computing Dream big and dare to fail. Agile Data Science Container Orchestration Replica Set Database GraphQL Work hard in silence, let your success be your noise.
 Kafka Firewalls To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Frontend
 Performance Opportunities don't happen. You create them. Do what you love and the money will follow. Event-driven Architecture Artificial Intelligence Cache Invalidation JavaScript I find that the harder I work, the more luck I seem to have. Monitoring Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. JWT
+IoT Security Container Orchestration API Automation Predictive Analytics UX Optimization DevOps Edge Computing
