@@ -11,3 +11,4 @@ Replica Set Server Response JavaScript Cache Invalidation Cloud IoT Success is h
 Act as if what you do makes a difference. It does. JWT Containerization Kafka OAuth Data Pipeline UX Optimization Data Science Blockchain Pull Request Python Automation
 Event-driven Architecture Agile Stay hungry, stay foolish. DNS Routing Frontend Innovation distinguishes between a leader and a follower. Event Sourcing Artificial Intelligence Testing JWT OAuth Opportunities don't happen. You create them. WebSockets
 Work hard in silence, let your success be your noise. Cloud Functions IoT Simplicity is the ultimate sophistication. Container Orchestration I find that the harder I work, the more luck I seem to have. Event-driven Architecture WebSockets Deployment
+Scalability DNS Routing Virtual Machines I find that the harder I work, the more luck I seem to have. Serverless Logging Dream big and dare to fail. Lambda Functions API Gateway
