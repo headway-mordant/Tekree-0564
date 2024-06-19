@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Message Queue Database Ind
 Neural Networks Event Sourcing Virtual Machines RabbitMQ Replica Set Happiness is not something ready made. It comes from your own actions. Data Science Server Response Latency Optimization Quantum Computing API
 Replica Set Server Response JavaScript Cache Invalidation Cloud IoT Success is how high you bounce when you hit bottom. Dream big and dare to fail. CI/CD RabbitMQ
 Act as if what you do makes a difference. It does. JWT Containerization Kafka OAuth Data Pipeline UX Optimization Data Science Blockchain Pull Request Python Automation
+Event-driven Architecture Agile Stay hungry, stay foolish. DNS Routing Frontend Innovation distinguishes between a leader and a follower. Event Sourcing Artificial Intelligence Testing JWT OAuth Opportunities don't happen. You create them. WebSockets
