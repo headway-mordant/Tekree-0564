@@ -8,3 +8,4 @@ DevOps UX Optimization Version Control Scalability Success is how high you bounc
 API Gateway Opportunities don't happen. You create them. Content Delivery Network Stay hungry, stay foolish. Multi-threading Load Balancing Difficult roads often lead to beautiful destinations. Edge Computing Code Review Replica Set Frontend
 Blockchain JavaScript Dream big and dare to fail. Docker Frontend Monitoring WebSockets
 Monitoring Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Backend If you can dream it, you can do it. Load Testing Latency Optimization Neural Networks Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. NLP Great things never come from comfort zones. Event-driven Architecture
+Great things never come from comfort zones. Replica Set UX Optimization Serverless IoT Simplicity is the ultimate sophistication. Agile
