@@ -7,3 +7,4 @@ Load Balancing Success usually comes to those who are too busy to be looking for
 Version Control Edge Computing Framework Lambda Functions Cache Invalidation Dream big and dare to fail. Serverless Database Indexing
 CI/CD Database Zero Downtime Deployment Lambda Functions Security The only way to do great work is to love what you do. Cloud Functions I find that the harder I work, the more luck I seem to have. DevOps Sharding Innovation distinguishes between a leader and a follower.
 Virtual Machines Predictive Analytics Edge Computing Deployment DNS Routing Logging CI/CD A/B Testing API Gateway Work hard in silence, let your success be your noise. Microservices Container Orchestration Content Delivery Network Algorithm
+To be the best, you must be able to handle the worst. JWT Load Balancing Data Science A/B Testing Firewalls Big Data Cloud Functions Success doesn’t just find you. You have to go out and get it.
