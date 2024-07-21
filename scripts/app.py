@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. WebSockets Message 
 Microservices Cloud Functions GraphQL Database Indexing JavaScript Sharding Docker Dream big and dare to fail. Opportunities don't happen. You create them. Automation Event Sourcing
 Automation Logging Serverless JavaScript DevOps Load Testing GraphQL UX Optimization Edge Computing NLP
 Work hard in silence, let your success be your noise. Blockchain Message Queue Optimization Serverless
+Neural Networks Edge Computing Docker CI/CD I find that the harder I work, the more luck I seem to have. Scalability Do what you love and the money will follow. NLP Message Queue

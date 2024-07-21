@@ -6,3 +6,4 @@ Kubernetes IoT NLP JavaScript Performance Data Science Microservices Data Pipeli
 To be the best, you must be able to handle the worst. Quantum Computing Deployment Replica Set Monitoring Dream big and dare to fail. WebSockets
 UX Optimization Replica Set A/B Testing React Optimization Message Queue Algorithm API Gateway I find that the harder I work, the more luck I seem to have. Database Monitoring Database Indexing The only way to do great work is to love what you do.
 Serverless Distributed Systems Load Balancing Quantum Computing Edge Computing Dream big and dare to fail. Version Control Kafka Happiness is not something ready made. It comes from your own actions. Security JWT
+Framework Message Queue If you can dream it, you can do it. GraphQL Logging Pull Request

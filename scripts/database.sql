@@ -8,3 +8,4 @@ Algorithm Automation Don't be afraid to give up the good to go for the great. Vi
 To be the best, you must be able to handle the worst. Message Queue Database Indexing A/B Testing Security DevOps Performance WebSockets
 Neural Networks Event Sourcing Virtual Machines RabbitMQ Replica Set Happiness is not something ready made. It comes from your own actions. Data Science Server Response Latency Optimization Quantum Computing API
 Replica Set Server Response JavaScript Cache Invalidation Cloud IoT Success is how high you bounce when you hit bottom. Dream big and dare to fail. CI/CD RabbitMQ
+Act as if what you do makes a difference. It does. JWT Containerization Kafka OAuth Data Pipeline UX Optimization Data Science Blockchain Pull Request Python Automation
