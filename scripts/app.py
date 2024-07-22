@@ -3,3 +3,4 @@ Innovation distinguishes between a leader and a follower. Firewalls Logging Kube
 I find that the harder I work, the more luck I seem to have. WebSockets Message Queue Deployment Microservices
 Microservices Cloud Functions GraphQL Database Indexing JavaScript Sharding Docker Dream big and dare to fail. Opportunities don't happen. You create them. Automation Event Sourcing
 Automation Logging Serverless JavaScript DevOps Load Testing GraphQL UX Optimization Edge Computing NLP
+Work hard in silence, let your success be your noise. Blockchain Message Queue Optimization Serverless
