@@ -5,3 +5,4 @@ Data Pipeline Kafka Testing GraphQL Machine Learning I find that the harder I wo
 Message Queue Neural Networks Sharding Stay hungry, stay foolish. Replica Set Work hard in silence, let your success be your noise. Framework Logging
 Kubernetes Artificial Intelligence Monitoring NLP Code Review Optimization Data Science Security Predictive Analytics Innovation distinguishes between a leader and a follower. Container Orchestration Frontend Replica Set
 Deployment Lambda Functions Sharding Containerization Kafka Latency Optimization Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Database Quantum Computing
+Firewalls Distributed Systems Backend Neural Networks Message Queue Python Event Sourcing The only way to do great work is to love what you do. Do what you love and the money will follow. Artificial Intelligence Container Orchestration Automation
