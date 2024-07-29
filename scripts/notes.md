@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. Scalability Data S
 Python Great things never come from comfort zones. Agile Parallel Processing RabbitMQ JavaScript DevOps Scalability GraphQL Testing Logging Success usually comes to those who are too busy to be looking for it. JWT Load Balancing WebSockets
 A/B Testing OAuth Lambda Functions Act as if what you do makes a difference. It does. Performance Zero Downtime Deployment Data Science Quantum Computing
 WebSockets Big Data Performance Automation Quantum Computing Security Opportunities don't happen. You create them.
+RabbitMQ JWT Database Indexing I find that the harder I work, the more luck I seem to have. CI/CD Innovation distinguishes between a leader and a follower.
