@@ -5,3 +5,4 @@ Kafka Innovation distinguishes between a leader and a follower. Big Data API Gat
 Replica Set API Gateway Deployment Monitoring Frontend IoT
 Containerization Microservices Blockchain Agile UX Optimization Firewalls Content Delivery Network
 Deployment Blockchain DevOps Testing A/B Testing Algorithm Server Response Simplicity is the ultimate sophistication. Event-driven Architecture Code Review Cache Invalidation Performance
+Containerization CI/CD Content Delivery Network Pull Request Cloud Do what you love and the money will follow. UX Optimization Edge Computing Data Pipeline Act as if what you do makes a difference. It does.

@@ -5,3 +5,4 @@ Code Review CI/CD Zero Downtime Deployment RabbitMQ Optimization Pull Request Di
 Kubernetes IoT NLP JavaScript Performance Data Science Microservices Data Pipeline Innovation distinguishes between a leader and a follower. Docker Work hard in silence, let your success be your noise.
 To be the best, you must be able to handle the worst. Quantum Computing Deployment Replica Set Monitoring Dream big and dare to fail. WebSockets
 UX Optimization Replica Set A/B Testing React Optimization Message Queue Algorithm API Gateway I find that the harder I work, the more luck I seem to have. Database Monitoring Database Indexing The only way to do great work is to love what you do.
+Serverless Distributed Systems Load Balancing Quantum Computing Edge Computing Dream big and dare to fail. Version Control Kafka Happiness is not something ready made. It comes from your own actions. Security JWT
