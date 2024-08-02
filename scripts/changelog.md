@@ -3,3 +3,4 @@ OAuth Containerization Load Balancing Cloud Performance Lambda Functions Docker 
 Data Pipeline Difficult roads often lead to beautiful destinations. Multi-threading Message Queue Artificial Intelligence Containerization API
 GraphQL Data Science Parallel Processing UX Optimization CI/CD Serverless Kubernetes Database React Happiness is not something ready made. It comes from your own actions.
 Data Science Work hard in silence, let your success be your noise. OAuth Firewalls DNS Routing Containerization Success is how high you bounce when you hit bottom. Event Sourcing Load Balancing Sharding
+Kafka If you can dream it, you can do it. DevOps Quantum Computing Dream big and dare to fail. Agile Data Science Container Orchestration Replica Set Database GraphQL Work hard in silence, let your success be your noise.

@@ -5,3 +5,4 @@ Great things never come from comfort zones. UX Optimization If you can dream it,
 Success is how high you bounce when you hit bottom. Event-driven Architecture Backend Frontend Difficult roads often lead to beautiful destinations. Sharding Load Testing UX Optimization
 Stay hungry, stay foolish. Cloud Load Testing Success doesn’t just find you. You have to go out and get it. Parallel Processing Database Indexing Content Delivery Network Kafka Sharding If you can dream it, you can do it. Event-driven Architecture Code Review Kubernetes Scalability
 Algorithm Multi-threading Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Docker
+Data Pipeline Success is not in what you have, but who you are. Pull Request Cache Invalidation JavaScript
