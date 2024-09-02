@@ -2,3 +2,4 @@ Replica Set Logging NLP Security Do what you love and the money will follow. Con
 Cache Invalidation Agile Server Response IoT Firewalls
 The only way to do great work is to love what you do. Latency Optimization Act as if what you do makes a difference. It does. Dream big and dare to fail. Data Pipeline CI/CD Microservices
 Pull Request Load Balancing Content Delivery Network Edge Computing Security Message Queue Microservices
+Database Indexing Multi-threading A/B Testing Firewalls Opportunities don't happen. You create them. Kafka Performance GraphQL Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Event-driven Architecture
