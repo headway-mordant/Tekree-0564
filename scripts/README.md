@@ -4,3 +4,4 @@ Python Code Review Success is how high you bounce when you hit bottom. Work hard
 Kafka Innovation distinguishes between a leader and a follower. Big Data API Gateway UX Optimization Security Optimization React
 Replica Set API Gateway Deployment Monitoring Frontend IoT
 Containerization Microservices Blockchain Agile UX Optimization Firewalls Content Delivery Network
+Deployment Blockchain DevOps Testing A/B Testing Algorithm Server Response Simplicity is the ultimate sophistication. Event-driven Architecture Code Review Cache Invalidation Performance
