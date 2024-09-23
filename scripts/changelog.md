@@ -2,3 +2,4 @@ To be the best, you must be able to handle the worst. Blockchain Event Sourcing 
 OAuth Containerization Load Balancing Cloud Performance Lambda Functions Docker Cache Invalidation Distributed Systems Automation
 Data Pipeline Difficult roads often lead to beautiful destinations. Multi-threading Message Queue Artificial Intelligence Containerization API
 GraphQL Data Science Parallel Processing UX Optimization CI/CD Serverless Kubernetes Database React Happiness is not something ready made. It comes from your own actions.
+Data Science Work hard in silence, let your success be your noise. OAuth Firewalls DNS Routing Containerization Success is how high you bounce when you hit bottom. Event Sourcing Load Balancing Sharding
