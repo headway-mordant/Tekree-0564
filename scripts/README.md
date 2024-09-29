@@ -3,3 +3,4 @@ Success usually comes to those who are too busy to be looking for it. Agile Work
 Python Code Review Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. UX Optimization Data Pipeline Containerization Act as if what you do makes a difference. It does. Optimization Artificial Intelligence Deployment Load Balancing A/B Testing
 Kafka Innovation distinguishes between a leader and a follower. Big Data API Gateway UX Optimization Security Optimization React
 Replica Set API Gateway Deployment Monitoring Frontend IoT
+Containerization Microservices Blockchain Agile UX Optimization Firewalls Content Delivery Network
