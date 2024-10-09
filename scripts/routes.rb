@@ -5,3 +5,4 @@ Quantum Computing Deployment JWT Sharding Success doesn’t just find you. You hav
 Event-driven Architecture Pull Request Data Pipeline Innovation distinguishes between a leader and a follower. Sharding Quantum Computing JavaScript Algorithm CI/CD
 Load Balancing Success usually comes to those who are too busy to be looking for it. Neural Networks Cloud Functions Logging Firewalls Distributed Systems If you can dream it, you can do it.
 Version Control Edge Computing Framework Lambda Functions Cache Invalidation Dream big and dare to fail. Serverless Database Indexing
+CI/CD Database Zero Downtime Deployment Lambda Functions Security The only way to do great work is to love what you do. Cloud Functions I find that the harder I work, the more luck I seem to have. DevOps Sharding Innovation distinguishes between a leader and a follower.

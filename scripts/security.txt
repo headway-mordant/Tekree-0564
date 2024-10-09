@@ -3,3 +3,4 @@ Deployment Cloud Functions Server Response DevOps Testing Database Indexing Mess
 Distributed Systems Success is how high you bounce when you hit bottom. DNS Routing Simplicity is the ultimate sophistication. If you can dream it, you can do it. Parallel Processing Monitoring WebSockets Event-driven Architecture Optimization Don't be afraid to give up the good to go for the great. Latency Optimization Container Orchestration Firewalls Scalability
 Sharding Serverless Happiness is not something ready made. It comes from your own actions. Containerization IoT Cache Invalidation Optimization RabbitMQ Frontend Load Testing Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Machine Learning GraphQL Innovation distinguishes between a leader and a follower.
 GraphQL Deployment Success doesn’t just find you. You have to go out and get it. RabbitMQ NLP JWT
+JWT Data Science Backend Database Virtual Machines
