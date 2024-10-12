@@ -1,3 +1,4 @@
 I find that the harder I work, the more luck I seem to have. Event-driven Architecture Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Frontend To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Edge Computing IoT
 Kubernetes Content Delivery Network Parallel Processing API Gateway Firewalls Performance Work hard in silence, let your success be your noise. Backend
 Cache Invalidation Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Quantum Computing IoT
+DNS Routing Lambda Functions Container Orchestration Act as if what you do makes a difference. It does. Big Data Kafka Latency Optimization Deployment Framework Multi-threading JavaScript Work hard in silence, let your success be your noise. Monitoring Parallel Processing
