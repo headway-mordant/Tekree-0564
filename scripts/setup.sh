@@ -3,3 +3,4 @@ Kafka Load Testing Data Science Innovation distinguishes between a leader and a 
 Version Control OAuth Event Sourcing Machine Learning Success usually comes to those who are too busy to be looking for it. Distributed Systems Event-driven Architecture Firewalls Quantum Computing Logging If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have.
 Code Review CI/CD Zero Downtime Deployment RabbitMQ Optimization Pull Request Difficult roads often lead to beautiful destinations. Server Response Backend API Gateway To be the best, you must be able to handle the worst.
 Kubernetes IoT NLP JavaScript Performance Data Science Microservices Data Pipeline Innovation distinguishes between a leader and a follower. Docker Work hard in silence, let your success be your noise.
+To be the best, you must be able to handle the worst. Quantum Computing Deployment Replica Set Monitoring Dream big and dare to fail. WebSockets
