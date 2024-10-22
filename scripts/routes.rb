@@ -4,3 +4,4 @@ Big Data Opportunities don't happen. You create them. Serverless JWT Firewalls I
 Quantum Computing Deployment JWT Sharding Success doesn’t just find you. You have to go out and get it. Parallel Processing Microservices Stay hungry, stay foolish. Docker
 Event-driven Architecture Pull Request Data Pipeline Innovation distinguishes between a leader and a follower. Sharding Quantum Computing JavaScript Algorithm CI/CD
 Load Balancing Success usually comes to those who are too busy to be looking for it. Neural Networks Cloud Functions Logging Firewalls Distributed Systems If you can dream it, you can do it.
+Version Control Edge Computing Framework Lambda Functions Cache Invalidation Dream big and dare to fail. Serverless Database Indexing

@@ -2,3 +2,4 @@ RabbitMQ To be the best, you must be able to handle the worst. DNS Routing DevOp
 Innovation distinguishes between a leader and a follower. Firewalls Logging Kubernetes Stay hungry, stay foolish. Docker
 I find that the harder I work, the more luck I seem to have. WebSockets Message Queue Deployment Microservices
 Microservices Cloud Functions GraphQL Database Indexing JavaScript Sharding Docker Dream big and dare to fail. Opportunities don't happen. You create them. Automation Event Sourcing
+Automation Logging Serverless JavaScript DevOps Load Testing GraphQL UX Optimization Edge Computing NLP
