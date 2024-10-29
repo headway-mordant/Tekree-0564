@@ -1,3 +1,4 @@
 To be the best, you must be able to handle the worst. Blockchain Event Sourcing Dream big and dare to fail. Cache Invalidation RabbitMQ Automation I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. UX Optimization Container Orchestration
 OAuth Containerization Load Balancing Cloud Performance Lambda Functions Docker Cache Invalidation Distributed Systems Automation
 Data Pipeline Difficult roads often lead to beautiful destinations. Multi-threading Message Queue Artificial Intelligence Containerization API
+GraphQL Data Science Parallel Processing UX Optimization CI/CD Serverless Kubernetes Database React Happiness is not something ready made. It comes from your own actions.
