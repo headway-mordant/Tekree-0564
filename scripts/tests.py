@@ -2,3 +2,4 @@ OAuth Neural Networks Deployment I find that the harder I work, the more luck I 
 Optimization Serverless Data Science Firewalls OAuth Pull Request Container Orchestration Work hard in silence, let your success be your noise.
 Backend Lambda Functions DNS Routing Kafka Scalability Cloud Functions Difficult roads often lead to beautiful destinations. Version Control Cache Invalidation Python
 Data Pipeline Kafka Testing GraphQL Machine Learning I find that the harder I work, the more luck I seem to have.
+Message Queue Neural Networks Sharding Stay hungry, stay foolish. Replica Set Work hard in silence, let your success be your noise. Framework Logging
