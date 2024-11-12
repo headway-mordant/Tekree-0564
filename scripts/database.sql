@@ -1,2 +1,3 @@
 Testing JWT Frontend Event-driven Architecture Success doesn’t just find you. You have to go out and get it. API Difficult roads often lead to beautiful destinations.
 Sharding Big Data JavaScript Don't be afraid to give up the good to go for the great. Backend
+Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Blockchain Database Indexing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. GraphQL Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. API Gateway Serverless
