@@ -3,3 +3,4 @@ Big Data Success usually comes to those who are too busy to be looking for it. R
 Content Delivery Network Cloud Functions Lambda Functions Testing Cache Invalidation I find that the harder I work, the more luck I seem to have. JavaScript Latency Optimization IoT Python
 If you can dream it, you can do it. Code Review Event Sourcing NLP Monitoring Microservices Docker OAuth Framework
 Deployment Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Backend Containerization JWT Docker Security Load Balancing
+Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Distributed Systems Optimization Act as if what you do makes a difference. It does. Algorithm Deployment Do what you love and the money will follow. To be the best, you must be able to handle the worst. DevOps CI/CD Lambda Functions Kubernetes Frontend Event Sourcing
