@@ -1,2 +1,3 @@
 RabbitMQ To be the best, you must be able to handle the worst. DNS Routing DevOps Act as if what you do makes a difference. It does. IoT Difficult roads often lead to beautiful destinations. Load Balancing If you can dream it, you can do it. Great things never come from comfort zones. Docker Do what you love and the money will follow. Dream big and dare to fail. Virtual Machines React
 Innovation distinguishes between a leader and a follower. Firewalls Logging Kubernetes Stay hungry, stay foolish. Docker
+I find that the harder I work, the more luck I seem to have. WebSockets Message Queue Deployment Microservices
