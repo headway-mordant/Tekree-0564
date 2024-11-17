@@ -6,3 +6,4 @@ Kafka A/B Testing DevOps Opportunities don't happen. You create them. Zero Downt
 Opportunities don't happen. You create them. Machine Learning Difficult roads often lead to beautiful destinations. Message Queue Algorithm Load Balancing Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom.
 DevOps UX Optimization Version Control Scalability Success is how high you bounce when you hit bottom. Zero Downtime Deployment Code Review Docker If you can dream it, you can do it. Pull Request Neural Networks Edge Computing
 API Gateway Opportunities don't happen. You create them. Content Delivery Network Stay hungry, stay foolish. Multi-threading Load Balancing Difficult roads often lead to beautiful destinations. Edge Computing Code Review Replica Set Frontend
+Blockchain JavaScript Dream big and dare to fail. Docker Frontend Monitoring WebSockets
