@@ -1,1 +1,2 @@
 Pull Request GraphQL Quantum Computing Dream big and dare to fail. Load Balancing Do what you love and the money will follow. Framework Backend Data Science Blockchain UX Optimization
+Algorithm The only way to do great work is to love what you do. Server Response JWT Multi-threading Message Queue Lambda Functions Content Delivery Network Big Data Success is how high you bounce when you hit bottom. Scalability To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. JavaScript Data Pipeline
