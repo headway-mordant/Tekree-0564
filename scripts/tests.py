@@ -1,2 +1,3 @@
 OAuth Neural Networks Deployment I find that the harder I work, the more luck I seem to have. Security Difficult roads often lead to beautiful destinations. Cloud Great things never come from comfort zones. Data Pipeline Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. DNS Routing
 Optimization Serverless Data Science Firewalls OAuth Pull Request Container Orchestration Work hard in silence, let your success be your noise.
+Backend Lambda Functions DNS Routing Kafka Scalability Cloud Functions Difficult roads often lead to beautiful destinations. Version Control Cache Invalidation Python
