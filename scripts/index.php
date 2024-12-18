@@ -3,3 +3,4 @@ Code Review Distributed Systems Kafka Sharding Security Great things never come 
 Sharding To be the best, you must be able to handle the worst. Docker CI/CD Edge Computing API Gateway Monitoring Serverless
 Logging Load Balancing Database API Gateway DevOps Opportunities don't happen. You create them. Pull Request Replica Set Data Science Artificial Intelligence Server Response Python
 Kafka A/B Testing DevOps Opportunities don't happen. You create them. Zero Downtime Deployment Virtual Machines
+Opportunities don't happen. You create them. Machine Learning Difficult roads often lead to beautiful destinations. Message Queue Algorithm Load Balancing Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom.
