@@ -1,0 +1,1 @@
+Distributed Systems Simplicity is the ultimate sophistication. Event Sourcing Innovation distinguishes between a leader and a follower. Blockchain React Success is how high you bounce when you hit bottom. Container Orchestration IoT I find that the harder I work, the more luck I seem to have. Artificial Intelligence Dream big and dare to fail. If you can dream it, you can do it.
