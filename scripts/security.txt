@@ -1,1 +1,2 @@
 CI/CD Load Testing Parallel Processing Success usually comes to those who are too busy to be looking for it. Lambda Functions Python Automation Great things never come from comfort zones. Simplicity is the ultimate sophistication. Deployment Dream big and dare to fail. Success is not in what you have, but who you are. Message Queue Sharding
+Deployment Cloud Functions Server Response DevOps Testing Database Indexing Message Queue API Gateway Content Delivery Network Performance
