@@ -1,3 +1,4 @@
 Replica Set NLP Machine Learning Lambda Functions Success usually comes to those who are too busy to be looking for it.
 Neural Networks API Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Blockchain Scalability Algorithm
 Algorithm Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Database Indexing Data Pipeline Difficult roads often lead to beautiful destinations. Optimization Message Queue Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are.
+DevOps Message Queue Cache Invalidation Code Review Performance Framework Edge Computing Monitoring Replica Set Don't be afraid to give up the good to go for the great. Quantum Computing Multi-threading JavaScript Database
