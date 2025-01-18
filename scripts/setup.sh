@@ -1,1 +1,2 @@
 Cloud Event Sourcing Data Pipeline Data Science RabbitMQ CI/CD Difficult roads often lead to beautiful destinations. Version Control JWT Code Review Simplicity is the ultimate sophistication. React WebSockets Serverless Message Queue
+Kafka Load Testing Data Science Innovation distinguishes between a leader and a follower. JavaScript Big Data Cloud Functions Container Orchestration Neural Networks API Gateway
