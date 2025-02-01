@@ -1,2 +1,3 @@
 JWT Backend JavaScript Cloud Functions Replica Set Content Delivery Network
 Code Review Distributed Systems Kafka Sharding Security Great things never come from comfort zones. DNS Routing Kubernetes RabbitMQ Replica Set Simplicity is the ultimate sophistication. OAuth
+Sharding To be the best, you must be able to handle the worst. Docker CI/CD Edge Computing API Gateway Monitoring Serverless
